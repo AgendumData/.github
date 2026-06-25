@@ -17,7 +17,7 @@ Customers, companies, contacts, documents, activities, permissions, workflows...
 
 <br>
 
-**REST** • **GraphQL** • **MCP**
+**GraphQL** • **MCP**
 
 *Batteries included. Schema not required.*
 
