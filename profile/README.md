@@ -2,7 +2,7 @@
 
 # Agendum Data
 
-### *The headless CRM that boots as a database and talks like an API.*
+### *The headless CRM that boots as a database and talks with AI.*
 
 **Stop rebuilding the same business backend.**
 
